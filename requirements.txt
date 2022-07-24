@@ -1,0 +1,2 @@
+autocorrect==2.6.1
+pymorphy2==0.9.1
